@@ -117,7 +117,7 @@ export default function WeddingInfo() {
       {/* Engagement ceremony (Lễ Đính Hôn) — above the wedding ceremony */}
       {/* <CeremonyBlock
         header={'Lễ Đính Hôn Được Cử Hành Tại\nNhà Chú Rể'}
-        address={'Tổ 12 - Phường Hòa Bình - Tỉnh Phú Thọ'}
+        address={'Tổ 39 - Phường Hòa Bình - Tỉnh Phú Thọ'}
         mapsQuery="Truong+Cao+Dang+Nguyen+Du+Hoang+Xuan+Han+Dai+Nai+Thanh+Sen+Ha+Tinh"
         time="10:30"
         weekday="Chủ Nhật"
